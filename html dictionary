@@ -1,0 +1,60 @@
+h1: Header tag, makes the text large and puts it on a seperate 	
+	line. Good for making titles or headings.
+
+	attributes: none
+
+	example: <h1>Leo Qi</h1>
+
+h6: Header tag, like h1 but the text is smaller. There are haeder
+	tags from h1 to h6. h6 is the smallest. Good for subheadings.
+
+	attributes: none
+
+	example: <h6>THhings I like</h6>
+
+a:  Link tag, tags a link to a script
+
+	attributes: hypertag reference, href="", specifies the URL of the page the link goes to
+
+	example: <a href="https://www.newyorker.com/"> a website </a>
+	
+img:Image tag, embeds an image im the text
+
+	attributes: source code, src="", specifies the URL of the media file to play
+	
+	example: <img src="babyyoda.jpg">
+	
+li: List tag, formats the texts in the list, puts around  the indivisual 
+    points
+
+	attributes: none
+
+	example: <li>Drawing</li>
+	
+ol: Order list tag, numbers the list 
+
+	attributes: none
+	
+	example: <ol>
+				<li>Drawing</li>
+				<li>Golf</li>
+				<li>French</li>
+				<li>Baby yoda</li>
+			 </ol>
+			 
+ul: Order list tag, puts the the list in bullet points
+
+	attributes: none
+	
+	example: <ul>
+				<li>Dizziness</li>
+				<li>rock music</li>
+				<li>sun</li>
+			</ul>
+			
+p: Paragraph tag, space out a phrase from the other texts
+
+	attributes: none
+	
+	example: <p>Youtube video:</p>
+			 
