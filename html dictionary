@@ -6,7 +6,7 @@ h1: Header tag, makes the text large and puts it on a seperate
 	example: <h1>Leo Qi</h1>
 
 h6: Header tag, like h1 but the text is smaller. There are haeder
-	tags from h1 to h6. h6 is the smallest. Good for subheadings.
+    tags from h1 to h6. h6 is the smallest. Good for subheadings.
 
 	attributes: none
 
@@ -36,21 +36,21 @@ ol: Order list tag, numbers the list
 	attributes: none
 	
 	example: <ol>
-				<li>Drawing</li>
-				<li>Golf</li>
-				<li>French</li>
-				<li>Baby yoda</li>
-			 </ol>
+			<li>Drawing</li>
+			<li>Golf</li>
+			<li>French</li>
+			<li>Baby yoda</li>
+		 </ol>
 			 
 ul: Order list tag, puts the the list in bullet points
 
 	attributes: none
 	
 	example: <ul>
-				<li>Dizziness</li>
-				<li>rock music</li>
-				<li>sun</li>
-			</ul>
+			<li>Dizziness</li>
+			<li>rock music</li>
+			<li>the sun</li>
+		 </ul>
 			
 p: Paragraph tag, space out a phrase from the other texts
 
