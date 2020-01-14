@@ -1,5 +1,23 @@
+<!DOCTYPE>: Select the most current version of html
+	    
+	attributes: none
+	
+	exmaple: <!DOCTYPE html>
+
+a:  Link tag, tags a link to a script
+
+	attributes: hypertag reference, href="", specifies the URL of the page the link goes to
+
+	example: <a href="https://www.newyorker.com/"> a website </a>
+
+<body>: contains the content of the website
+
+	attributes: none
+	
+	example: <body> Hi </body>
+
 h1: Header tag, makes the text large and puts it on a seperate 	
-	line. Good for making titles or headings.
+    line. Good for making titles or headings.
 
 	attributes: none
 
@@ -12,12 +30,24 @@ h6: Header tag, like h1 but the text is smaller. There are haeder
 
 	example: <h6>THhings I like</h6>
 
-a:  Link tag, tags a link to a script
+<head>: contains things for your web browser to think about
 
-	attributes: hypertag reference, href="", specifies the URL of the page the link goes to
-
-	example: <a href="https://www.newyorker.com/"> a website </a>
+	attributes: none
 	
+	example: <head>
+		 <title>First Website</title>
+		 </head>
+	
+<html>: marks the begining and end of your html code, so things don't get mixed up
+
+	attributes:none
+	
+	example: <html>
+		 <head>
+		 </head>
+		 <body>
+		 </html>
+
 img:Image tag, embeds an image im the text
 
 	attributes: source code, src="", specifies the URL of the media file to play
@@ -41,7 +71,13 @@ ol: Order list tag, numbers the list
 			<li>French</li>
 			<li>Baby yoda</li>
 		 </ol>
-			 
+
+p: Paragraph tag, space out a phrase from the other texts
+
+	attributes: none
+	
+	example: <p>Youtube video:</p>			 
+
 ul: Order list tag, puts the the list in bullet points
 
 	attributes: none
@@ -52,9 +88,5 @@ ul: Order list tag, puts the the list in bullet points
 			<li>the sun</li>
 		 </ul>
 			
-p: Paragraph tag, space out a phrase from the other texts
 
-	attributes: none
-	
-	example: <p>Youtube video:</p>
 			 
