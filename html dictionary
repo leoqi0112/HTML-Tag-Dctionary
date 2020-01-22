@@ -16,6 +16,16 @@ a:  Link tag, tags a link to a script
 	
 	example: <body> I'm Leo </body>
 	
+br: breaks a line, adds space between lines
+
+	attributes: none
+	
+	example: <p> text </p>
+		 <br>
+		 <br>
+		 <p> text </p>
+	
+	
 div: goes withim the style tag, defines properties for the margin.
 
 	atrributes: none
