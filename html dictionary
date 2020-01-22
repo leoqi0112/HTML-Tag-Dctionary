@@ -15,7 +15,20 @@ a:  Link tag, tags a link to a script
 	attributes: none
 	
 	example: <body> I'm Leo </body>
+	
+div: goes withim the style tag, defines properties for the margin.
 
+	atrributes: none
+	
+	example:div {
+			width: 700px;
+			border: 3px solid lightblue;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 50px;
+			padding: 20px;
+			}
+			
 h1: Header tag, makes the text large and puts it on a seperate 	
     line. Good for making titles or headings.
 
@@ -76,7 +89,20 @@ p: Paragraph tag, space out a phrase from the other texts
 
 	attributes: none
 	
-	example: <p>Youtube video:</p>			 
+	example: <p>Youtube video:</p>	
+	
+style: The style tag edits how the information should be rendered in the html text.
+       It goes within the head tag, just before the body tag.
+
+	attributes: none 
+	
+	example:<style> 
+		body {
+			background-color: black;
+			font-family:Trebuchet;
+			color: #CDFFF7;
+		}
+		</style>
 
 ul: Order list tag, puts the the list in bullet points
 
