@@ -91,7 +91,7 @@ p: Paragraph tag, space out a phrase from the other texts
 	
 	example: <p>Youtube video:</p>	
 	
-style: The style tag edits how the information should be rendered in the html text.
+style: CSS code. The style tag edits how the information should be rendered in the html text.
        It goes within the head tag, just before the body tag.
 
 	attributes: none 
